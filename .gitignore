@@ -2,6 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-*.code-workspace
+.code-workspace
 /.quarto/
 clean/
