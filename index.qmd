@@ -16,15 +16,23 @@ Julia has emerged as an important language for statistical data analysis and mac
 
 This first half of this tutorial introduces the Julia programming language with a focus on statistical analysis. The second half focuses on likelihood and Bayesian inference using the Turing.jl probabilistic programming ecosystem in Julia. Participants are encouraged to install Julia and some statistical packages before the tutorial, to follow along on their own laptops.
 
-### Introduction to the Julia programming language
+### Venue
 
-Instructor: [Mattias Villani](https://mattiasvillani.com), Professor of Statistics, Stockholm University.
+The tutorial takes place in MAL 404 + 405, Floor 4, [Birkbeck Malet Street](https://maps.app.goo.gl/Bo7YCu75Es56XwXM8) (main building, Stairs A, Lift A1, A2), Birkbeck, University of London, UK. For virtual participation, please see below.
 
-Material for Part 1 are available at the website [Julia4Stats](https://mattiasvillani.com/Julia4Stats)
+The registration and coffee breaks with take place in MAL 151, Birkbeck Malet Street (main building, Stairs B, Lifts B1, B2).
 
-### Probabilistic programming for statistical analysis in Turing.jl
+### Part 1 - Introduction to the Julia programming language
 
-Instructors:
+*Instructor*: [Mattias Villani](https://mattiasvillani.com), Professor of Statistics, Stockholm University.
+
+*Time*: 9.00-13.00 with a half-hour coffee break at 10.30-11.00.
+
+*Material for Part 1*: available at the website [Julia4Stats](https://mattiasvillani.com/Julia4Stats)
+
+### Part 2 - Probabilistic programming for statistical analysis in Turing.jl
+
+*Instructors*:
 
 -   [Markus Hauru](https://mhauru.org/), Senior Research Data Scientist, Alan Turing Institute
 
@@ -32,6 +40,8 @@ Instructors:
 
 -   [Tim Hargreaves](https://www.timhargreaves.me/pages/), PhD candidate, University of Cambridge
 
-Material for Part 2: TBA
+*Time*: 14.30-18.30 with a half-hour coffee break at 16.00-16.30.
+
+*Material for Part 2*: TBA
 
 ###
