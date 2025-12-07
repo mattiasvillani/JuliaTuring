@@ -5,7 +5,7 @@ execute:
   freeze: auto
   engine: julia
   env:
-    JULIA_PROJECT: ~/Dropbox/Teaching/Julia/Ecosta2025Tutorial
+    JULIA_PROJECT: ~/Dropbox/Teaching/Julia/Julia4Stats
 #engine: julia
 #julia:
 #  exeflags: ["--project=@."]
@@ -27,7 +27,7 @@ website:
       #href: stealourcourse.qmd
     right:
       - icon: github
-        href: https://github.com/mattiasvillani/Julia4Stats
+        href: https://github.com/mattiasvillani/JuliaTuring
         aria-label: Quarto GitHub
 format:
   html:
