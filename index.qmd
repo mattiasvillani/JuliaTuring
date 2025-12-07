@@ -20,7 +20,7 @@ This first half of this tutorial introduces the Julia programming language with 
 
 Instructor: [Mattias Villani](https://mattiasvillani.com), Professor of Statistics, Stockholm University.
 
-Web site for the material: [Julia4Stats](https://mattiasvillani.com/Julia4Stats).
+Material for Part 1 are available at the website [Julia4Stats](https://mattiasvillani.com/Julia4Stats)
 
 ### Probabilistic programming for statistical analysis in Turing.jl
 
@@ -32,4 +32,6 @@ Instructors:
 
 -   [Tim Hargreaves](https://www.timhargreaves.me/pages/), PhD candidate, University of Cambridge
 
-### 
+Material for Part 2: TBA
+
+###
