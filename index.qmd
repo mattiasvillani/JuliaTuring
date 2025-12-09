@@ -28,7 +28,7 @@ The registration and coffee breaks with take place in MAL 151, Birkbeck Malet St
 
 *Time*: 9.00-13.00 with a half-hour coffee break at 10.30-11.00.
 
-*Material for Part 1*: available at the website [Julia4Stats](https://mattiasvillani.com/Julia4Stats), including instructions on how install Julia.
+*Material for Part 1*: available at the website [Julia4Stats](https://mattiasvillani.com/Julia4Stats), including instructions on how to install Julia.
 
 ### Part 2 - Probabilistic programming for statistical analysis in Turing.jl
 
