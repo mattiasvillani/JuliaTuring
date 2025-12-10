@@ -42,12 +42,18 @@ The registration and coffee breaks with take place in MAL 151, Birkbeck Malet St
 
 *Time*: 14.30-18.30 with a half-hour coffee break at 16.00-16.30.
 
-*Material for Part 2*: <https://github.com/TuringLang/Turing-Workshop/tree/main/2025-CFE-CMStatistics> for all four parts
+*Material for Part 2*:
 
-Google Colab notebooks:
+-   [Github repository](https://github.com/TuringLang/Turing-Workshop/tree/main/2025-CFE-CMStatistics) for all four parts.
 
--   [Part 1](https://githubtocolab.com/TuringLang/Turing-Workshop/blob/main/2025-CFE-CMStatistics/part1/part1-turing-basics.ipynb)
+-   **Google Colab** notebooks:
 
--   [Part 2](https://githubtocolab.com/TuringLang/Turing-Workshop/blob/main/2025-CFE-CMStatistics/part2/part2-turing-beyond-basics.ipynb)
+    -   [Part 1](https://githubtocolab.com/TuringLang/Turing-Workshop/blob/main/2025-CFE-CMStatistics/part1/part1-turing-basics.ipynb)
+
+    -   [Part 2](https://githubtocolab.com/TuringLang/Turing-Workshop/blob/main/2025-CFE-CMStatistics/part2/part2-turing-beyond-basics.ipynb)
+
+    -   [Part 3](https://githubtocolab.com/TuringLang/Turing-Workshop/blob/main/2025-CFE-CMStatistics/part3/part3-generalised-filters.ipynb)
+
+    -   [Part 4](https://githubtocolab.com/TuringLang/Turing-Workshop/blob/main/2025-CFE-CMStatistics/part4/part4-make-it-yours.ipynb)
 
 ### 
