@@ -42,6 +42,6 @@ The registration and coffee breaks with take place in MAL 151, Birkbeck Malet St
 
 *Time*: 14.30-18.30 with a half-hour coffee break at 16.00-16.30.
 
-*Material for Part 2*: TBA
+*Material for Part 2*: <https://github.com/TuringLang/Turing-Workshop/tree/main/2025-CFE-CMStatistics>
 
 ### 
