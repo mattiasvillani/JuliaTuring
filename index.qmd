@@ -40,6 +40,10 @@ The registration and coffee breaks with take place in MAL 151, Birkbeck Malet St
 
 -   [Tim Hargreaves](https://www.timhargreaves.me/pages/), PhD candidate, University of Cambridge
 
+-   [Charles Knipp](https://github.com/charlesknipp/), Economic Data Analyst, US Federal Reserve Board of Governors
+
+-   [Nikolas Siccha](https://www.eng.cam.ac.uk/profiles/nds48), Research Associate, University of Cambridge Turing Institute
+
 *Time*: 14.30-18.30 with a half-hour coffee break at 16.00-16.30.
 
 *Material for Part 2*:
